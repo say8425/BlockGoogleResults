@@ -1,0 +1,9 @@
+[{
+    "trigger": {
+        "url-filter": "google.com"
+    },
+    "action": {
+        "selector": ".blocked-result",
+        "type": "css-display-none"
+    }
+}]
